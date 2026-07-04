@@ -73,5 +73,5 @@
 ---
 
 <p align="center">
-  <em>📫 Reach out via <a href="https://www.linkedin.com/in/shivansh-kumar-adi/">LinkedIn</a> — always happy to talk MERN, computer vision, or QA.</em>
+  <em>📫 Reach out via <a href="https://www.linkedin.com/in/shivansh-kumar-adi/">LinkedIn</a> — always happy to talk ME(A/R/V)N, computer vision, or QA.</em>
 </p>
