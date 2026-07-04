@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shivansh Kumar 👋</h1>
 
 <p align="center">
-  <em>CS student @ SRM University — building across the stack, currently going a layer deeper into systems.</em>
+  <em>Software Engineer Intern @ Nutrithy Wellness · B.Tech 2nd Year @ SRM University AP — building across the stack, currently going a layer deeper into systems.</em>
 </p>
 
 <p align="center">
