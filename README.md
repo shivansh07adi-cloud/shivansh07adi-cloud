@@ -1,4 +1,4 @@
-<<h1 align="center">Hi, I'm Shivansh Kumar 👋</h1>
+<h1 align="center">Hi, I'm Shivansh Kumar 👋</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -51,24 +51,30 @@
 
 | Project | Description |
 |---|---|
-| **[HackJudge AI](https://github.com/shivansh07adi-cloud)** | AI-powered platform to analyze and evaluate coding solutions |
-| **[ConsentGuard](https://github.com/shivansh07adi-cloud)** | Digital consent platform with audit history and embedded photo-tracking IDs (built at Code4Her Hackathon) |
-| **[Hand Gesture Media Controller](https://github.com/shivansh07adi-cloud)** | Real-time webcam gesture control for media playback (Python, OpenCV, MediaPipe) |
+| **[HackJudge AI](https://github.com/shivansh07adi-cloud/HackJudgeAI)** | AI-powered platform to analyze and evaluate coding solutions |
+| **[ConsentGuard](https://github.com/shivansh07adi-cloud/ConcernGuard)** | Secure consent-logging platform with cryptographic, time-stamped audit trails for digital agreements — built at Hack4Her 2026 |
+| **[Community Referral Portal](https://github.com/shivansh07adi-cloud/Referral-Portel-for-companies-and-employees)** | Full-stack directory where companies list themselves for referrals and job seekers browse & reach out directly — Next.js 14, React 18, Supabase (PostgreSQL), deployed on Vercel |
+| **[Image Enhancement & Preprocessing System](https://github.com/shivansh07adi-cloud/Image-enhancement-and-preprocessing)** | Computer vision pipeline with 12+ enhancement techniques (CLAHE, gamma correction, edge detection, HDR) and 5 preprocessing operations, built with Python, OpenCV & Streamlit |
+| **[3D Hand Tracker](https://github.com/shivansh07adi-cloud/Hand-gesture-project-python)** | Real-time hand-tracking app that lets you resize, rotate, and switch 3D shapes (Cube, Pyramid, Sphere) using hand gestures — Python, OpenCV, MediaPipe |
+| **[Hand Gesture Music Controller](https://github.com/shivansh07adi-cloud/Gesture-Media-Controller-Python)** | Real-time, touchless media controller — hand gestures control play/pause, track skip, and volume via MediaPipe landmark detection and OpenCV, with cross-platform audio support (Windows/macOS/Linux) |
 | **[SnapRecipe](https://github.com/shivansh07adi-cloud)** | AI recipe generator from food images using the Gemini Vision API |
-| **[Portfolio](https://shivanshonline.in)** | Personal portfolio — React/TypeScript, deployed on Vercel with CI/CD |
+| **[Portfolio](https://shivanshonline.in)** | Personal portfolio — vanilla HTML/CSS/JS, canvas particle background, custom typewriter effect, light/dark theming, deployed on Vercel |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivansh07adi-cloud&theme=tokyonight" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=shivansh07adi-cloud&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivansh07adi-cloud&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivansh07adi-cloud&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivansh07adi-cloud&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=shivansh07adi-cloud&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivansh07adi-cloud&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivansh07adi-cloud&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
