@@ -27,7 +27,7 @@
 ### 🔭 About Me
 
 - 🔭 Currently a **Software Engineer Intern @ Nutrithy Wellness** (dev work + hands-on QA — test planning, manual/automated testing, bug tracking)
-- 🧩 Building across the **MERN stack**, React, Next.js, and the Gemini API
+- 🧩 Building across the **ME(A/R/V)N stack** — MongoDB, Express, Angular/React/Vue, Node.js — along with Next.js and the Gemini API
 - 🌱 Currently learning: **operating system development** and going deeper into low-level systems
 - 🏆 National-level Math Olympiad (IOQM) qualifier, Top-44 national rank in the Indian National Astronomy Olympiad, and 1st Prize at the Analytics Hackathon — India Conference at Harvard
 - 💬 Ask me about: MERN stack, computer vision, or QA/testing practices
