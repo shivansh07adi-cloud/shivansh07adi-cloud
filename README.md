@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shivansh Kumar 👋</h1>
+<<h1 align="center">Hi, I'm Shivansh Kumar 👋</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -62,12 +62,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivansh07adi-cloud&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivansh07adi-cloud&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivansh07adi-cloud&theme=tokyonight" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=shivansh07adi-cloud&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivansh07adi-cloud&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivansh07adi-cloud&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivansh07adi-cloud&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
