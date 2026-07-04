@@ -70,14 +70,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivansh07adi-cloud&theme=tokyonight&column=4&margin-w=15&margin-h=15" />
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
