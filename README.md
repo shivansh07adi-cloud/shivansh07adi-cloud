@@ -15,6 +15,11 @@
   <a href="https://stackoverflow.com/users/32904287/shivansh-kumar"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
   <a href="https://shivanshonline.in"><img src="https://img.shields.io/badge/Portfolio-14161A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.instagram.com/triples.2008"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.facebook.com/share/1JfT5DHL8H/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shivansh07adi-cloud&label=Profile%20Views&color=4285F4&style=for-the-badge&base=987" alt="Profile Views" />
 </p>
 
 ---
