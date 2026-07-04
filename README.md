@@ -26,7 +26,7 @@
 
 ### 🔭 About Me
 
-- 🔭 Currently a **Software Engineer Intern @ Nutrithy Wellness** (dev work + hands-on QA — test planning, manual/automated testing, bug tracking) and a **Computer Vision Research Intern @ Synthica** (gesture-recognition pipelines with Python, OpenCV, MediaPipe)
+- 🔭 Currently a **Software Engineer Intern @ Nutrithy Wellness** (dev work + hands-on QA — test planning, manual/automated testing, bug tracking)
 - 🧩 Building across the **MERN stack**, React, Next.js, and the Gemini API
 - 🌱 Currently learning: **operating system development** and going deeper into low-level systems
 - 🏆 National-level Math Olympiad (IOQM) qualifier, Top-44 national rank in the Indian National Astronomy Olympiad, and 1st Prize at the Analytics Hackathon — India Conference at Harvard
