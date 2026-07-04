@@ -1,6 +1,12 @@
 <h1 align="center">Hi, I'm Shivansh Kumar 👋</h1>
 
 <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=4285F4&center=true&vCenter=true&width=600&lines=I%27m%20a%20Software%20Engineer;I%27m%20a%20Full%20Stack%20Developer;I%27m%20a%20ME%28A%2FR%2FV%29N%20Stack%20Developer;I%20love%20system%20designing%20and%20development;I%27m%20a%20low-level%20programming%20enthusiast;I%27m%20learning%20operating%20system%20development;I%27m%20learning%20API%20development;I%27m%20exploring%20unique%20fields%20of%20software" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
   <em>Software Engineer Intern @ Nutrithy Wellness · B.Tech 2nd Year @ SRM University AP — building across the stack, currently going a layer deeper into systems.</em>
 </p>
 
