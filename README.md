@@ -37,9 +37,13 @@
 
 ### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,c,react,nextjs,nodejs,express,mongodb,html,css,tailwind,git,github,vscode,aws,azure,vercel,linux" />
-</p>
+| Category | Stack |
+|---|---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,c" /> |
+| **Frontend & Backend** | <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,html,css,tailwind" /> |
+| **Database** | <img src="https://skillicons.dev/icons?i=mongodb" /> |
+| **Tools & Environment** | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" /> |
+| **Cloud & Deploy** | <img src="https://skillicons.dev/icons?i=aws,azure,vercel" /> |
 
 ---
 
