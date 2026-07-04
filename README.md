@@ -26,12 +26,32 @@
 
 ### 🔭 About Me
 
-- 🔭 Currently a **Software Engineer Intern @ Nutrithy Wellness** (dev work + hands-on QA — test planning, manual/automated testing, bug tracking) and a **Computer Vision Research Intern @ Synthica** (gesture-recognition pipelines with Python, OpenCV, MediaPipe)
-- 🧩 Building across the **MERN stack**, React, Next.js, and the Gemini API
-- 🌱 Currently learning: **operating system development** and going deeper into low-level systems
-- 🏆 National-level Math Olympiad (IOQM) qualifier, Top-44 national rank in the Indian National Astronomy Olympiad, and 1st Prize at the Analytics Hackathon — India Conference at Harvard
-- 💬 Ask me about: MERN stack, computer vision, or QA/testing practices
-- ⚡ Fun fact: went from olympiad math/astronomy to building a media controller operated entirely by hand gestures
+```bash
+$ whoami
+Shivansh Kumar — B.Tech CS, SRM University AP
+
+$ ps --current
+Software Engineer Intern  @ Nutrithy Wellness   (dev work + QA: test planning, manual/automated testing, bug tracking)
+CV Research Intern        @ Synthica            (gesture-recognition pipelines: Python, OpenCV, MediaPipe)
+
+$ stack --active
+MERN · React · Next.js · Gemini API
+
+$ learning --now
+Operating systems & low-level programming
+
+$ achievements --top 3
+🏆 1st Prize — Analytics Hackathon, India Conference @ Harvard
+🏆 IOQM Qualifier — National Math Olympiad
+🏆 Top 44 (National) — Indian National Astronomy Olympiad
+
+$ ask_me --about
+MERN stack · Computer Vision · QA & Testing
+
+$ fun_fact
+Went from olympiad math and astronomy to building a media
+player controlled entirely by hand gestures.
+```
 
 ---
 
