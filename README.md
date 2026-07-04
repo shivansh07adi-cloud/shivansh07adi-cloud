@@ -29,7 +29,7 @@
 - 🔭 Currently a **Software Engineer Intern @ Nutrithy Wellness** (dev work + hands-on QA — test planning, manual/automated testing, bug tracking)
 - 🧩 Building across the **ME(A/R/V)N stack** — MongoDB, Express, Angular/React/Vue, Node.js — along with Next.js and the Gemini API
 - 🌱 Currently learning: **operating system development** and going deeper into low-level systems
-- 🏆 National-level Math Olympiad (IOQM) qualifier, Top-44 national rank in the Indian National Astronomy Olympiad, and 1st Prize at the Analytics Hackathon — India Conference at Harvard
+- 🏆 National-level Math Olympiad (IOQM) qualifier, Top-44 national rank in the Indian National Astronomy Olympiad, 1st Prize at the Analytics Hackathon — India Conference at Harvard, and Top-50 ranker in Google's The Big Code Challenge
 - 💬 Ask me about: MERN stack, computer vision, or QA/testing practices
 - ⚡ Fun fact: went from olympiad math/astronomy to building a media controller operated entirely by hand gestures
 
