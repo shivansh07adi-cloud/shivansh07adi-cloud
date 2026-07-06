@@ -41,7 +41,7 @@
 |---|---|
 | **Languages** | <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,c" /> |
 | **Frontend & Backend** | <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,html,css,tailwind" /> |
-| **Database** | <img src="https://skillicons.dev/icons?i=mongodb" /> |
+| **Database** | <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase" /> |
 | **Tools & Environment** | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" /> |
 | **Cloud & Deploy** | <img src="https://skillicons.dev/icons?i=aws,azure,vercel" /> |
 
