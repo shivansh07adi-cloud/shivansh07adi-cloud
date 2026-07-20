@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <em>Software Engineer Intern @ Nutrithy Wellness · B.Tech 2nd Year @ SRM University AP — building across the stack, currently going a layer deeper into systems.</em>
+  <em>Software Engineer @ Nutrithy Wellness · B.Tech 2nd Year @ SRM University AP — building across the stack, currently going a layer deeper into systems.</em>
 </p>
 
 <p align="center">
